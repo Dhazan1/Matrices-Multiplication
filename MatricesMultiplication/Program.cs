@@ -91,7 +91,7 @@ namespace MatricesMultiplication
                     for (int i = 0; i < 2; i++)
                     {
                         for (int j = 0; j < 2; j++)
-                        { Console.WriteLine(matrixTotal2X2B[i, j]); }
+                        { Console.WriteLine(matrixTotal2X2B[i, j]); }          //iterate and printout the matrices
                            Console.WriteLine("");
                     }
                     break;
